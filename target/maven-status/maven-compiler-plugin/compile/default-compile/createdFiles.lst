@@ -1,0 +1,16 @@
+com\example\restaurant\repository\OrderRepositoryInterface.class
+com\example\restaurant\RestaurantApplication.class
+com\example\restaurant\model\Meal.class
+com\example\restaurant\service\OrderService.class
+com\example\restaurant\service\ClientService.class
+com\example\restaurant\response\ErrorResponceDTO.class
+com\example\restaurant\controller\OrderController.class
+com\example\restaurant\model\Order.class
+com\example\restaurant\model\Administrator.class
+com\example\restaurant\model\Client.class
+com\example\restaurant\repository\MealRepositoryInterface.class
+com\example\restaurant\model\OrderStatus.class
+com\example\restaurant\service\AdminService.class
+com\example\restaurant\response\responseDTO.class
+com\example\restaurant\repository\AdminRepositoryInterface.class
+com\example\restaurant\repository\ClientRepositoryInterface.class
